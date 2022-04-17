@@ -11,3 +11,9 @@ PPT-2
 This ia a presentation of Mechanical Project Based Learning
 This is a Team project and in this project we have designed a Wooden Lamp.
 Topic-Wooden Lamp
+
+PPT-3
+This is a presentation about "Data Structures Project"
+
+PPT-4
+This is a presentation of research paper on "Machine learning Algorithms and Applications"
